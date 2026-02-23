@@ -18,4 +18,5 @@ int main(){ //program utama
     cout << "tegar";
     cout << "sang";
     cout << "fajar";
+    cout << "tamburaka";
 }   
