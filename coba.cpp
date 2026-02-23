@@ -16,4 +16,5 @@ int main(){ //program utama
     cout << age;
     cout << age1;
     cout << "tegar";
-}
+    cout << "sang";
+}   
